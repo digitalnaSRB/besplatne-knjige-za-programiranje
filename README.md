@@ -1,7 +1,7 @@
 # Lista knjiga za programiranje
 
 Na sledećim linkovima možete preuzeti knjige u PDF formatu kao i tutorijale na određenim sajtovima.
-U zavisnosti od interesovanja i progrmaskog jezika veliki broj platformi za vežbanje.
+U zavisnosti od interesovanja i programskog jezika, možete pronaći i veliki broj platformi za vežbanje.
 
 
 ### Podelite na društvenim mrežama
